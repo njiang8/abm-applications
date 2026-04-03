@@ -8,7 +8,7 @@ The synthetic population used for all latest ABM initializations is built from t
 * Synthetic Population Publication: https://www.nature.com/articles/s41597-024-03970-1
 
 ## Latest Applications
-* Commute: https://github.com/njiang8/erie-commute
+* Commute: https://github.com/njiang8/erie-commute/tree/v0.1
 * Campus Pedestrian: https://github.com/njiang8/campus-walking-pedstrain
 * Multi Disease: https://github.com/njiang8/seir-multi
 * Vaccination: https://github.com/fuzhen-yin/vaccination_model_erie_nys
