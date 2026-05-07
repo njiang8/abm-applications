@@ -13,6 +13,7 @@ The synthetic population used for all latest ABM initializations is built from t
 * Multi Disease: https://github.com/njiang8/seir-multi
 * Vaccination: https://github.com/fuzhen-yin/vaccination_model_erie_nys
 
+Datasets used for above simulation can be found at https://osf.io/63j8a
 
 ## Applications from Previous Work
 Previous Work: https://link.springer.com/chapter/10.1007/978-3-031-64193-0_10
