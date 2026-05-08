@@ -5,23 +5,17 @@ This repository documents agent-based modeling (ABM) applications built on geogr
 
 ### Latest Synthetic Population Foundation
 The synthetic population used for all latest ABM initializations is built from the 2020 U.S. Decennial Census and published in Scientific Data (Nature Portfolio). This dataset includes a full geographically explicit population for the U.S. 50 states + Washington D.C., paired with stylized social networks (household, work, education) and precise spatial attributes (latitude/longitude for home/work/school).
-* Synthetic Population Publication: https://www.nature.com/articles/s41597-024-03970-1
 
-## Latest Applications
-* Commute: https://github.com/njiang8/erie-commute/tree/v0.1
-* Campus Pedestrian: https://github.com/njiang8/campus-walking-pedstrain
-* Multi Disease: https://github.com/njiang8/seir-multi
-* Vaccination: https://github.com/fuzhen-yin/vaccination_model_erie_nys
+* **Synthetic Population Publication**: [https://www.nature.com/articles/s41597-024-03970-1](https://www.nature.com/articles/s41597-024-03970-1)
 
-Datasets used for above simulation can be found at https://osf.io/63j8a
+* Geographically-Explicit Synthetic Populations 
+	*  **Method and Code:** [https://github.com/njiang8/geo-synthetic-pop-usa](https://github.com/njiang8/geo-synthetic-pop-usa)
+	* **Synthetic Population Datasets**: [https://osf.io/fpnc2/overview](https://osf.io/fpnc2/overview)
 
-## Applications from Previous Work
-Previous Work: https://link.springer.com/chapter/10.1007/978-3-031-64193-0_10
+## Applications
+* **Daily Commuting Model**: [https://github.com/njiang8/erie-commute/](https://github.com/njiang8/erie-commute/)
+* **Pedestrian Movement on Campus Model**: [https://github.com/njiang8/campus-walking-pedstrain](https://github.com/njiang8/campus-walking-pedstrain)
+* **Infectious Disease Model**: [https://github.com/njiang8/seir-multi](https://github.com/njiang8/seir-multi)
+* **Vaccination Model:** [https://github.com/fuzhen-yin/vaccination_model_erie_nys](https://github.com/fuzhen-yin/vaccination_model_erie_nys)
 
-Geographically-Explicit Synthetic Populations Method and Code: https://github.com/njiang8/Create_Synthetic_Population
-Synthetic Population Datasets: https://osf.io/9xe3y/
-
-Code of the three abms from the CSSSA paper
-* Commute: https://github.com/njiang8/erie-commute
-* Multi Disease: https://github.com/njiang8/seir-multi
-* Vaccination: https://github.com/fuzhen-yin/vaccination_model_erie_nys
+Datasets used for the above applications can be found at [https://osf.io/63j8a](https://osf.io/63j8a)
