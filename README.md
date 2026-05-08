@@ -9,7 +9,7 @@ The synthetic population used for all latest ABM initializations is built from t
 * **Synthetic Population Publication**: [https://www.nature.com/articles/s41597-024-03970-1](https://www.nature.com/articles/s41597-024-03970-1)
 
 * Geographically-Explicit Synthetic Populations 
-	*  **Method and Code:** [https://github.com/njiang8/geo-synthetic-pop-usa](https://github.com/njiang8/geo-synthetic-pop-usa)
+	* **Method and Code:** [https://github.com/njiang8/geo-synthetic-pop-usa](https://github.com/njiang8/geo-synthetic-pop-usa)
 	* **Synthetic Population Datasets**: [https://osf.io/fpnc2/overview](https://osf.io/fpnc2/overview)
 
 ## Applications
@@ -17,5 +17,7 @@ The synthetic population used for all latest ABM initializations is built from t
 * **Pedestrian Movement on Campus Model**: [https://github.com/njiang8/campus-walking-pedstrain](https://github.com/njiang8/campus-walking-pedstrain)
 * **Infectious Disease Model**: [https://github.com/njiang8/seir-multi](https://github.com/njiang8/seir-multi)
 * **Vaccination Model**: [https://osf.io/3khyq/overview](https://osf.io/3khyq/overview)
+
+Datasets used for **Daily Commuting Model** and **Infectious Disease Model** applications can be found at [https://osf.io/63j8a](https://osf.io/63j8a)
   
-Datasets used for the above applications can be found at [https://osf.io/63j8a](https://osf.io/63j8a)
+
