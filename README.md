@@ -16,6 +16,6 @@ The synthetic population used for all latest ABM initializations is built from t
 * **Daily Commuting Model**: [https://github.com/njiang8/erie-commute/tree/v0.1](https://github.com/njiang8/erie-commute/tree/v0.1)
 * **Pedestrian Movement on Campus Model**: [https://github.com/njiang8/campus-walking-pedstrain](https://github.com/njiang8/campus-walking-pedstrain)
 * **Infectious Disease Model**: [https://github.com/njiang8/seir-multi](https://github.com/njiang8/seir-multi)
-* **Vaccination Model:** [https://github.com/fuzhen-yin/vaccination_model_erie_nys](https://github.com/fuzhen-yin/vaccination_model_erie_nys)
-
+* **Vaccination Model**: [https://osf.io/3khyq/overview](https://osf.io/3khyq/overview)
+  
 Datasets used for the above applications can be found at [https://osf.io/63j8a](https://osf.io/63j8a)
